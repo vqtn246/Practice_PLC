@@ -4,17 +4,17 @@
 		D:\PLC Project\Practice_PLC\PLCSim Advanced 4.0\IM\HMI\R\0\D\HMI_5KN4
 	</ProjectLocation>
 	<ProjectIsConsistent>
-		0
+		1
 	</ProjectIsConsistent>
 	<SharedMcxLocation>
 		
 	</SharedMcxLocation>
 	<ProjectLocationUNC>
-		
+		\\NGHIA\WinCC_Project_HMI_5KN4
 	</ProjectLocationUNC>
 	<RDP>
 	<LastModifiedDate>
-		2022-09-07 21:54:18
+		2022-09-08 08:42:21
 	</LastModifiedDate>
 	</RDP>
 </MCX>
